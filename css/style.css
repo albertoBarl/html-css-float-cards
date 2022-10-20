@@ -33,6 +33,10 @@ img{
     float: left;
 }
 
+a{
+    color: rgb(1, 192, 255);
+}
+
 .row .col{
     float: left;
     width: calc(100% / 3 - 20px);
@@ -44,4 +48,6 @@ img{
 .infos{
     line-height: 1.5;
     vertical-align:top;
+    float: left;
+    padding-left: 5px;
 }
