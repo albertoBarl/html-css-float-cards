@@ -30,4 +30,18 @@ p:first-child{
 
 img{
     width: 75px;
+    float: left;
+}
+
+.row .col{
+    float: left;
+    width: calc(100% / 3 - 20px);
+    margin: 20px 10px;
+    background-color: #0F0E17;
+    color: white;
+}
+
+.infos{
+    line-height: 1.5;
+    vertical-align:top;
 }
