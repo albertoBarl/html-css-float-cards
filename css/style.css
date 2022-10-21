@@ -42,6 +42,7 @@ a{
     width: calc(100% / 3 - 20px);
     margin: 20px 10px;
     background-color: #0F0E17;
+    box-shadow: 0px 0px 3px 3px #0F0E17;
     color: white;
 }
 
